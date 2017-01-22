@@ -1,2 +1,2 @@
-# Symbiote.Plugin.Endpoint.Example
+# OpenIIoT.Plugin.Endpoint.Example
 Example Endpoint Plugin

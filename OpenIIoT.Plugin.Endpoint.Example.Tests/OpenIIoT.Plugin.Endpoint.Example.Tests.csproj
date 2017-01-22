@@ -7,8 +7,8 @@
     <ProjectGuid>{3F0BDA04-E090-4B0A-99B3-6F7D42DEDCCA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Symbiote.Plugin.Endpoint.Example.Tests</RootNamespace>
-    <AssemblyName>Symbiote.Plugin.Endpoint.Example.Tests</AssemblyName>
+    <RootNamespace>OpenIIoT.Plugin.Endpoint.Example.Tests</RootNamespace>
+    <AssemblyName>OpenIIoT.Plugin.Endpoint.Example.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

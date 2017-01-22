@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbiote.Plugin.Endpoint.Example", "Symbiote.Plugin.Endpoint.Example\Symbiote.Plugin.Endpoint.Example.csproj", "{5DA85DD0-B058-459F-AE89-EFE972CB7E34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIIoT.Plugin.Endpoint.Example", "OpenIIoT.Plugin.Endpoint.Example\OpenIIoT.Plugin.Endpoint.Example.csproj", "{5DA85DD0-B058-459F-AE89-EFE972CB7E34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbiote.Plugin.Endpoint.Example.Tests", "Symbiote.Plugin.Endpoint.Example.Tests\Symbiote.Plugin.Endpoint.Example.Tests.csproj", "{3F0BDA04-E090-4B0A-99B3-6F7D42DEDCCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIIoT.Plugin.Endpoint.Example.Tests", "OpenIIoT.Plugin.Endpoint.Example.Tests\OpenIIoT.Plugin.Endpoint.Example.Tests.csproj", "{3F0BDA04-E090-4B0A-99B3-6F7D42DEDCCA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7FA6740C-CE35-451D-90D0-A018A000DDA9}"
 	ProjectSection(SolutionItems) = preProject
